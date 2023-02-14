@@ -87,7 +87,7 @@ WaitGroup用于控制并发任务的同步等待，当启动多个并发任务�
 
 ### 通道
 
-通道channel是并发任务之间通信的信道，Go语言通过CSP模型来实现通信共享内存。
+单纯的让函数并发执行没有任何意义，并发函数之间必然有数据的通信，而通道channel是并发任务之间通信的信道，Go语言通过CSP模型来实现通信共享内存。
 
 首先明确channel是一种类型，它遵循<strong style="color:red;">先进先出</strong>的原则，因此数据通过channel发送是<strong style="color:red;">有序</strong>的。
 
