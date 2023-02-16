@@ -48,7 +48,7 @@ ask sb. for sth. 要求某人做某事
 
 - knock at  敲（门）
 - knock ... off 把...碰掉
-- knock off 减少，降低；下班，收工
+- knock off 减少，降低 (近义如reduce)；下班，收工
 - knock over （被车）撞到
 - knock out 击败
 
