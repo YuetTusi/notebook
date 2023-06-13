@@ -124,6 +124,18 @@ func main() {
 
 ## 写
 
+写入文件可以使用`WriteFile()`一次性写入：
+
+```go
+writeErr := os.WriteFile("./resource/test.json", []byte("测试一段文字"), 0666)
+
+if writeErr != nil {
+	fmt.Println(writeErr.Error())
+}
+```
+
+`WriteFile()`写入文件前要
+
 ## 常用文件操作
 
 ### 读取文件状态
@@ -226,4 +238,21 @@ if err != nil {
 } else {
 	fmt.Println("删除成功")
 }
+```
+
+## 路径操作
+
+Go语言路径操作封装在`path`包中。
+
+```go
+//返回文件名
+fmt.Println(path.Base("./test/demo.html")) //demo.html
+//返回目录
+fmt.Println(path.Dir("./test/demo.html")) //test
+//返回扩展名
+fmt.Println(path.Ext("./test/demo.html")) //.html
+//是否是绝对路径
+fmt.Println(path.IsAbs("./test/demo.html")) //false
+//接拼目录
+fmt.Println(path.Join("lesson", "./test/demo.html")) //lesson/test/demo.html
 ```
