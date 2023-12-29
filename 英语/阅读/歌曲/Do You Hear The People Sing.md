@@ -16,9 +16,9 @@ Who will be strong and stand with me?
 Beyond the `barricade`  
 Is there a world you long to see?
 
-> crusade (n.) 斗争，运动
+> crusade (n.) /kruːˈseɪd/ 斗争，运动
 > 
-> barricade (n.) 路障，街垒
+> barricade (n.) /ˌbærɪ'keɪd/ 路障，街垒
 
 Then join in the fight  
 That will give you the right to be free!
@@ -41,7 +41,7 @@ Will water the `meadows` of France!
 
 > banner (n.) 横幅
 > 
-> martyr (n.) 烈士，殉道者
+> martyr (n.) /ˈmɑːtə(r)/ 烈士，殉道者
 > 
 > meadow (n.) 草地；牧场
 
