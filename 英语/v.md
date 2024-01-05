@@ -1,0 +1,162 @@
+|基本形式|过去式|过去分词|翻译|
+|---|---|---|---|
+|[arise](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/arise)|arose|arisen|出现|
+|[awake](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/awake)|awoke (awaked)|awoken (awaked)|醒来|
+|[be](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/be)|was / were|been|成为|
+|[bear](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/bear)|bore|borne / born|忍受忍受|
+|[beat](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/beat)|beat|beaten|击败|
+|[become](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/become)|became|become|成为|
+|[begin](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/begin)|began|begun|开始|
+|[bend](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/bend)|bent|bent|扭曲;破戒|
+|[bet](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/bet)|bet|bet|下注|
+|[bid](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/bid)|bid / bade|bid / bidden|投标|
+|[bind](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/bind)|bound|bound|结合|
+|[bite](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/bite)|bit|bitten|咬|
+|[bleed](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/bleed)|bled|bled|流血|
+|[blow](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/blow)|blew|blown|吹|
+|[break](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/break)|broke|broken|打破|
+|[breed](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/breed)|bred|bred|繁殖|
+|[bring](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/bring)|brought|brought|带来|
+|[broadcast](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/broadcast)|broadcast (broadcasted)|broadcast (broadcasted)|广播|
+|[build](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/build)|built|built|建造|
+|[burn](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/burn)|burnt / burned|burnt / burned|燃烧|
+|[burst](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/burst)|burst|burst|破裂|
+|[buy](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/buy)|bought|bought|买|
+|[cast](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/cast)|cast|cast|铸造|
+|[catch](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/catch)|caught|caught|去抓|
+|[choose](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/choose)|chose|chosen|选择|
+|[cling](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/cling)|clung|clung|紧贴|
+|[clothe](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/clothe)|clad (clothed)|clad (clothed)|穿衣服|
+|[come](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/come)|came|come|来|
+|[cost](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/cost)|cost|cost|花费|
+|[creep](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/creep)|crept|crept|蠕变|
+|[cut](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/cut)|cut|cut|切割|
+|[deal](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/deal)|dealt|dealt|交易;处理|
+|[dig](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/dig)|dug|dug|挖|
+|[do](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/do)|did|done|去做|
+|[draw](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/draw)|drew|drawn|画|
+|[dream](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/dream)|dreamt (dreamed)|dreamt (dreamed)|做梦|
+|[drink](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/drink)|drank|drunk|喝|
+|[drive](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/drive)|drove|driven|驾车|
+|[dwell](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/dwell)|dwelt|dwelt|要住|
+|[eat](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/eat)|ate|eaten|去吃|
+|[fall](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/fall)|fell|fallen|跌倒|
+|[feed](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/feed)|fed|fed|喂食|
+|[feel](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/feel)|felt|felt|感觉|
+|[fight](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/fight)|fought|fought|打架|
+|[find](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/find)|found|found|找到|
+|[flee](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/flee)|fled|fled|逃离|
+|[fling](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/fling)|flung|flung|甩|
+|[fly](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/fly)|flew|flown|飞|
+|[forbid](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/forbid)|forbade|forbidden|禁止|
+|[forecast](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/forecast)|forecast (forecasted)|forecast (forecasted)|预测|
+|[forget](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/forget)|forgot|forgotten|忘记|
+|[forgive](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/forgive)|forgave|forgiven|原谅|
+|[forsake](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/forsake)|forsook|forsaken|放弃|
+|[freeze](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/freeze)|froze|frozen|冻结|
+|[get](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/get)|got|got / gotten (us)|要得到|
+|[give](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/give)|gave|given|给|
+|[go](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/go)|went|gone|去|
+|[grind](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/grind)|ground|ground|研磨|
+|[grow](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/grow)|grew|grown|成长|
+|[hang](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/hang)|hung|hung|吊死|
+|[have](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/have)|had|had|具有|
+|[hear](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/hear)|heard|heard|听到|
+|[hide](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/hide)|hid|hidden|隐藏|
+|[hit](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/hit)|hit|hit|击中|
+|[hold](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/hold)|held|held|保持|
+|[hurt](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/hurt)|hurt|hurt|伤害|
+|[keep](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/keep)|kept|kept|保持|
+|[kneel](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/kneel)|knelt|knelt|下跪|
+|[knit](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/knit)|knit (knitted)|knit (knitted)|编织|
+|[know](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/know)|knew|known|知道|
+|[lay](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/lay)|laid|laid|铺设|
+|[lead](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/lead)|led|led|领导|
+|[lean](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/lean)|leant (leaned)|leant (leaned)|倾斜|
+|[leap](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/leap)|leapt (leaped)|leapt (leaped)|飞跃|
+|[learn](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/learn)|learnt (learned)|learnt (learned)|学习|
+|[leave](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/leave)|left|left|离开|
+|[lend](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/lend)|lent|lent|借|
+|[let](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/let)|let|let|让|
+|[lie](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/lie)|lay|lain|撒谎|
+|[light](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/light)|lit (lighted)|lit (lighted)|点亮|
+|[lose](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/lose)|lost|lost|失去|
+|[make](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/make)|made|made|做|
+|[mean](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/mean)|meant|meant|意思是|
+|[meet](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/meet)|met|met|见面|
+|[mislead](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/mislead)|misled|misled|误导|
+|[mistake](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/mistake)|mistook|mistaken|错误|
+|[mow](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/mow)|mowed|mown (mowed)|修剪|
+|[pay](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/pay)|paid|paid|支付|
+|[put](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/put)|put|put|放在|
+|[quit](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/quit)|quit (quitted)|quit (quitted)|退出|
+|[read](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/read)|read|read|读书|
+|[rid](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/rid)|rid|rid|摆脱|
+|[ride](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/ride)|rode|ridden|骑|
+|[ring](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/ring)|rang|rung|响|
+|[rise](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/rise)|rose|risen|上升|
+|[run](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/run)|ran|run|跑步|
+|[saw](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/saw)|sawed|sawn (sawed)|锯|
+|[say](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/say)|said|said|说|
+|[see](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/see)|saw|seen|查看|
+|[seek](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/seek)|sought|sought|寻找|
+|[sell](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/sell)|sold|sold|出售|
+|[send](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/send)|sent|sent|发送|
+|[set](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/set)|set|set|设置|
+|[sew](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/sew)|sewed|sewn (sewed)|缝|
+|[shake](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/shake)|shook|shaken|摇晃|
+|[shave](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/shave)|shaved|shaven (shaved)|刮胡子|
+|[shine](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/shine)|shone|shone|闪耀|
+|[shoot](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/shoot)|shot|shot|开枪|
+|[show](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/show)|showed|shown|以显示|
+|[shrink](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/shrink)|shrank|shrunk|收缩|
+|[shut](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/shut)|shut|shut|关闭|
+|[sing](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/sing)|sang|sung|唱歌|
+|[sink](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/sink)|sank|sunk|下沉|
+|[sit](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/sit)|sat|sat|坐着|
+|[sleep](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/sleep)|slept|slept|睡觉|
+|[slide](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/slide)|slid|slid|滑动|
+|[smell](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/smell)|smelt (smelled)|smelt (smelled)|闻起来|
+|[sow](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/sow)|sowed|sown (sowed)|播种|
+|[speak](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/speak)|spoke|spoken|说话|
+|[speed](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/speed)|sped (speeded)|sped (speeded)|加速|
+|[spell](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/spell)|spelt (spelled)|spelt (spelled)|拼写|
+|[spend](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/spend)|spent|spent|要花|
+|[spill](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/spill)|spilt (spilled)|spilt (spilled)|溢|
+|[spin](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/spin)|span|spun|旋转|
+|[spit](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/spit)|spat|spat|吐|
+|[split](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/split)|split|split|分开|
+|[spoil](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/spoil)|spoilt (spoiled)|spoilt (spoiled)|破坏|
+|[spread](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/spread)|spread|spread|传播|
+|[spring](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/spring)|sprang|sprung|到春天|
+|[stand](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/stand)|stood|stood|站立|
+|[steal](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/steal)|stole|stolen|偷|
+|[stick](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/stick)|stuck|stuck|坚持|
+|[sting](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/sting)|stung|stung|刺|
+|[stink](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/stink)|stank|stunk|臭|
+|[stride](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/stride)|strode|stridden|大步向前|
+|[strike](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/strike)|struck|struck|罢工|
+|[string](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/string)|strung|strung|到字符串|
+|[strive](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/strive)|strove|striven|努力|
+|[swear](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/swear)|swore|sworn|发誓|
+|[sweep](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/sweep)|swept|swept|去打扫|
+|[swell](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/swell)|swelled|swollen (swelled)|膨胀|
+|[swim](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/swim)|swam|swum|游泳|
+|[swing](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/swing)|swung|swung|摆动|
+|[take](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/take)|took|taken|服用|
+|[teach](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/teach)|taught|taught|去教|
+|[tear](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/tear)|tore|torn|撕裂|
+|[tell](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/tell)|told|told|告诉|
+|[think](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/think)|thought|thought|思考|
+|[throw](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/throw)|threw|thrown|投掷|
+|[thrust](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/thrust)|thrust|thrust|推力|
+|[tread](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/tread)|trod|trod / trodden|踩踏|
+|[understand](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/understand)|understood|understood|理解|
+|[wake](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/wake)|woke (waked)|woke (waked)|唤醒|
+|[waylay](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/waylay)|waylaid|waylaid|埋伏|
+|[wear](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/wear)|wore|worn|穿|
+|[weave](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/weave)|wove|woven|织|
+|[weep](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/weep)|wept|wept|哭泣|
+|[win](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/win)|won|won|赢|
+|[wring](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/wring)|wrung|wrung|要拧|
+|[write](https://lingopal.com/zh/%E6%B4%BB%E7%94%A8/%E8%8B%B1%E8%AF%AD/write)|wrote|written|来写|
