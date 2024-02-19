@@ -21,7 +21,7 @@ The challenge was advertised on social media, with a free meal and more being of
 But when the Chinese authorities heard about the challenge, they weren't happy.
 
 ```txt
-但当中国的有关部门听到了关于这项挑战，他们非常生气。
+但当中国的有关部门听到了关于这项挑战，他们并不高兴。
 ```
 
 According to CNN, the challenge could break China's anti-food waste law. The unnamed restaurant is one of several restaurants in the area that is being investigated by the authorities because of competitions like this, CNN reported.
