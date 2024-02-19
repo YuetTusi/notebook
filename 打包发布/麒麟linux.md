@@ -32,3 +32,10 @@ sudo npm install node-pre-gyp -g
 ```txt
 export ELECTRON_BUILDER_BINARIES_MIRROR=https://mirrors.huaweicloud.com/electron-builder-binaries
 ```
+
+如果打包过程中报node内存不足，可全局安装`increase-memory-limit`包，并在项目目录中执行：
+
+```bash
+sudo increase-memory-limit
+```
+
