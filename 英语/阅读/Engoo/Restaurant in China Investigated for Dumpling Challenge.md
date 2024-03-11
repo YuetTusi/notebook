@@ -26,7 +26,7 @@ But when the Chinese authorities heard about the challenge, they weren't happy.
 
 According to CNN, the challenge could break China's anti-food waste law. The unnamed restaurant is one of several restaurants in the area that is being investigated by the authorities because of competitions like this, CNN reported.
 
-```txt
+```
 根据CNN的报道，这项挑战违反了中国的浪费食品法。这是在众饭店中的一家不知名的小餐馆在此地方被有关部门调查的店之一。
 ```
 
