@@ -29,10 +29,14 @@ One of the most famous French actors of all time, Louis de Funès also enjoys **
 > 
 > immense adj. 极大的
 
-**Despite** his international fame, Louis de Funès remains almost unknown in the English-speaking world. He was exposed to a wider audience only once in the United States, in 1973, with the release of The Mad Adventures of Rabbi Jacob, which is best remembered for its Rabbi Jacob dance scene and was nominated for a Golden Globe Award. Louis de Funès has two museums dedicated to his life and acting: one in the Château de Clermont, near Nantes, where he resided, as well as another in the town of Saint-Raphaël, Southern France.
+**Despite** his international fame, Louis de Funès remains almost unknown in the English-speaking world. He was exposed to a wider audience only once in the United States, in 1973, with the release of The Mad Adventures of Rabbi Jacob, which is best remembered for its Rabbi Jacob dance scene and was **nominated** for a Golden Globe Award. Louis de Funès has two museums **dedicated** to his life and acting: one in the Château de Clermont, near Nantes, where he resided, as well as another in the town of Saint-Raphaël, Southern France.
 
 ```
 尽管路易·德·菲内斯在国际上享有盛誉，但他在英语世界中仍然几乎不为人知。 1973 年，他在美国唯一一次接触到更广泛的观众，当时是《雅各布拉比的疯狂历险记》的上映，该片因雅各布拉比的舞蹈场景而被人们铭记，并获得金球奖提名。 路易·德·菲内斯有两座博物馆致力于他的生活和表演：一座位于他居住的南特附近的克莱蒙城堡，另一座位于法国南部的圣拉斐尔镇。
 ```
 
 > despite prep. 尽管
+> 
+> nominate v. 提名
+> 
+> dedicate v. 奉献给...

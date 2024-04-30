@@ -36,5 +36,5 @@ However, the Chinese government and many older people in China don't believe tat
 In the past, tattoos were also used to brand people who had broken the law. And they're still associated with being a member of different crime groups.
 
 ```
-在过去，纹身也用于标志犯罪的人。且他们仍与不同的犯罪集团有联系
+在过去，纹身也用于标识犯罪的人。且他们仍与不同的犯罪集团有联系
 ```
